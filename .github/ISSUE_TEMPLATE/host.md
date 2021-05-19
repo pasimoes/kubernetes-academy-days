@@ -7,7 +7,7 @@ about: 'Use this form to host a Kubernetes Academy Day event in your region'
 
 Please fill in information, organizers, and sponsors as you assemble them, and then make a new comment when this application is ready for review.
 
-### Name of the Instituition (Academy):
+### Name of the Institution (Academy):
 
 ### Event Location:
 
@@ -20,7 +20,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 *Please check each of these as you complete them:
 
 * [ ] No other Kubernetes Academy Day event in the same Instituition 
-* [ ] Minimum of 3 organizers from 3 different organizations and 1 from the Instituition
+* [ ] Minimum of 3 organizers from 3 different organizations and 1 from the Institution
 * [ ] Every organizer has an account on [Cloud Native Community Groups](https://community.cncf.io/)
 * [ ] Each organizer lives in or just outside of the KAD location
 * [ ] At least one organizer is a CNCF member employee, CNCF ambassador, or CNCF project maintainer
@@ -40,7 +40,7 @@ Please fill in information, organizers, and sponsors as you assemble them, and t
 ### Organizer 1: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 2: First and Last Name, Company, Title, Email, CNCF Slack Username
 ### Organizer 3: First and Last Name, Company, Title, Email, CNCF Slack Username
-### Organizer 4: First and Last Name, Company, Title, Email, CNCF Slack Username
+### Organizer 4: First and Last Name, Academy, Title, Email, CNCF Slack Username
 
 ### Sponsor 1
 ### Sponsor 2
